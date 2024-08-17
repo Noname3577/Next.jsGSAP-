@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg_a{
+  width: 96.3vw;
+  color: aliceblue;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 300vh;
+}
+
+.text_a{
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.boxs_a{
+  padding: 50px;
+  background-color: aqua;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
